@@ -11,8 +11,8 @@ This is a space tourism website in which a brief overview of how space tourism h
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/article-preview-component-solution-MtN-ZfSfPh)
-- Live Site URL: [here](https://sunilbaghel002.github.io/article-preview-component-master/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/space-tourism-website-solution-ZXNSPnUZqU)
+- Live Site URL: [here](https://sunilbaghel002.github.io/space-tourism-website/index.html)
 
 ## My process
 
